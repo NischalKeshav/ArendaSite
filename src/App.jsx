@@ -1,9 +1,12 @@
 import * as Sentry from '@sentry/react';
 
+import Navbar from './components/Navbar';
+
+
 const App = () => {
   return (
     <main className="bg-black">
-      <h1 class="text-white flex justify-center items-center h-screen">Hello world</h1>
+      <><Navbar /></>
     </main>
   )
 }
