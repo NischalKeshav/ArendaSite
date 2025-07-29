@@ -6,8 +6,8 @@ import Navbar from './components/Navbar';
 const App = () => {
   return (
     <main className="bg-black">
-      <title>Arenda | Home</title>
-      <><Navbar /></>
+      
+      <Navbar />
       <Hero />
     </main>
   )
