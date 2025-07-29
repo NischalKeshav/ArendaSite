@@ -1,1 +1,3 @@
-// Use to log any nessacary animation carry overs
+import hmv from "/assets/videos/heroVideo.mp4";
+
+export const heroVideo = hmv;
